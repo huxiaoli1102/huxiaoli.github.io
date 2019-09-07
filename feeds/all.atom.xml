@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Xiaoli's Blog</title><link href="http://huxiaoli1102.github.io/" rel="alternate"></link><link href="http://huxiaoli1102.github.io/feeds/all.atom.xml" rel="self"></link><id>http://huxiaoli1102.github.io/</id><updated>2018-02-09T20:00:00-08:00</updated><entry><title>First Post</title><link href="http://huxiaoli1102.github.io/first-post.html" rel="alternate"></link><published>2018-02-09T20:00:00-08:00</published><updated>2018-02-09T20:00:00-08:00</updated><author><name>Xiaoli Hu</name></author><id>tag:huxiaoli1102.github.io,2018-02-09:first-post.html</id><summary type="html">&lt;style type="text/css"&gt;/*!
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Xiaoli's Blog</title><link href="http://huxiaoli.github.io/" rel="alternate"></link><link href="http://huxiaoli.github.io/feeds/all.atom.xml" rel="self"></link><id>http://huxiaoli.github.io/</id><updated>2018-02-09T20:00:00-08:00</updated><entry><title>First Post</title><link href="http://huxiaoli.github.io/first-post.html" rel="alternate"></link><published>2018-02-09T20:00:00-08:00</published><updated>2018-02-09T20:00:00-08:00</updated><author><name>Xiaoli Hu</name></author><id>tag:huxiaoli.github.io,2018-02-09:first-post.html</id><summary type="html">&lt;style type="text/css"&gt;/*!
 *
 * IPython notebook
 *
